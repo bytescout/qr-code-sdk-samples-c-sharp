@@ -5,4 +5,5 @@
 \create GS1 QR Code
 \create qr code with Binary Data
 \create qr code with Unicode Value
+\Create Simple QR Code
 \make QR Code With Image
